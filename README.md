@@ -46,7 +46,7 @@ A **Flask-based Push Notification Dashboard** with:
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/YOUR-USERNAME/Push-Notify.git
+git clone https://github.com/Linuxndroid/Push-Notify
 cd Push-Notify
 ```
 ```bash
