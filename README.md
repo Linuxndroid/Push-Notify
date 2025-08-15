@@ -5,7 +5,7 @@
 # 📢 Push Notification Dashboard RedTeamer
 
 A **Flask-based Push Notification Dashboard** with:
-- 🎨 Matrix-style public landing page for subscribers  
+- 🎨 Matrix-style public landing page for Social-Engineers 
 - 🔒 Admin login with push dashboard
 - 📊 Support Multi Device, iOS, Android, Windows
 - 🌍 GeoIP lookup for subscriber location  
