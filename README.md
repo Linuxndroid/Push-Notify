@@ -38,7 +38,7 @@ A **Flask-based Push Notification Dashboard** with:
 
 ---
 ## 💻 Before Start Change This
-- 📬 Change&Paste Your Vapid Api ```Line 38,39,40``` in ```App.py``` File
+- 📬 Change&Paste Your [Vapid](https://vapidkeys.com/) Api ```Line 38,39,40``` in ```App.py``` File
 - 🔑 Change Admin Login Data, ```Line 43,44``` Default is ```admin, admin123```
 - 🌐 Use HTTPS URL Using Domain or Port Forwarding
   
