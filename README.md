@@ -85,7 +85,7 @@ Misuse without consent is strictly prohibited and may violate laws.
 This project is licensed under the [MIT License](LICENSE).
 
 # Watch Video For More Information.
-[![YouTube Video](https://img.youtube.com/vi/up9fcNwsiqg/0.jpg)](https://youtu.be/up9fcNwsiqg?feature=shared)
+[![YouTube Video](https://img.youtube.com/vi/T3JTKu7U5HE/0.jpg)](https://youtu.be/T3JTKu7U5HE?feature=shared)
 
 <p align="center">Made with ❤️ By <a href="https://www.youtube.com/channel/UC2O1Hfg-dDCbUcau5QWGcgg">Linuxndroid</a></p>
 
